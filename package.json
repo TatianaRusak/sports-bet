@@ -1,6 +1,5 @@
 {
   "name": "sports-bet",
-  "homepage": "https://tatianarusak.github.io/sports-bet/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,8 +38,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "comp": "generate-react component",
-    "deploy": "gh-pages -d build"
+    "comp": "generate-react component"
   },
   "eslintConfig": {
     "extends": [
