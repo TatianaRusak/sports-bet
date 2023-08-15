@@ -11,13 +11,6 @@ a:visited {
   color: inherit;
 }
 
-// html, 
-// body,
-// #root,
-// .App {
-//   height: 100%;
-// }
-
 .wrapper {
   max-width: 1200px;
   padding: 0 15px;
@@ -27,15 +20,10 @@ a:visited {
   height: 100vh;
   overflow-y: scroll;
   padding: 140px 0 40px;
-  // display: grid;
-  // grid-template-rows: 160px 1fr;
   background: url('../public/images/gambling-friends.png') right bottom  no-repeat,
   linear-gradient(0deg, transparent 27%, rgba(27,36,35,1) 100%),
   radial-gradient(at right bottom, rgb(193, 219, 216) 40%, rgba(46,87,82,1) 80%);
   background-attachment: fixed;
-  // @media (max-width: 899.98px) {
-  //   padding-bottom: 300px;
-  // }
   @media (max-width: 899.98px) {
     padding-top: 170px;
   }
