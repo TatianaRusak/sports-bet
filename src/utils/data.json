@@ -1,0 +1,112 @@
+[
+    {
+        "eventTitle": "Жен. Кубок Мира",
+        "eventId": 1,
+        "time": "2023-08-11T11:00:00.000Z",
+        "firstTeam": "Испания(жен)",
+        "secondTeam": "Швеция(жен)",
+        "coefficientFirstTeam": 2.18,
+        "coefficientDraw": 3.27,
+        "coefficientSecondTeam": 3.73
+    },   
+    {
+        "eventTitle": "Лига Чемпионов УЕФА. Квалификация",
+        "eventId": 2,
+        "time": "2023-08-13T21:00:00.000Z",
+        "firstTeam": "Спарта Прага",
+        "secondTeam": "ФК Копенгаген",
+        "coefficientFirstTeam": 1.26,
+        "coefficientDraw": 5.9,
+        "coefficientSecondTeam": 11
+    },
+    {
+        "eventTitle": "Суперкубок УЕФА",
+        "eventId": 7,
+        "time": "2023-08-16T00:22:00.000Z",
+        "firstTeam": "Манчестер Сити",
+        "secondTeam": "Севилья",
+        "coefficientFirstTeam": 1.4,
+        "coefficientDraw": 5,
+        "coefficientSecondTeam": 8.5
+    },
+    {
+        "eventTitle": "Лига Чемпионов УЕФА. Квалификация",
+        "eventId": 3,
+        "time": "2023-08-17T21:00:00.000Z",
+        "firstTeam": "Динамо Загреб",
+        "secondTeam": "АЕК",
+        "coefficientFirstTeam": 2.2,
+        "coefficientDraw": 3.35,
+        "coefficientSecondTeam": 3.3
+    },
+    {
+        "eventTitle": "Лига Чемпионов УЕФА. Квалификация",
+        "eventId": 5,
+        "time": "2023-09-10T22:30:00.000Z",
+        "firstTeam": "Штурм Грац",
+        "secondTeam": "ПСВ Эйндховен",
+        "coefficientFirstTeam": 3.3,
+        "coefficientDraw": 3.65,
+        "coefficientSecondTeam": 2.08
+    },
+        {
+        "eventTitle": "Лига Чемпионов УЕФА. Квалификация",
+        "eventId": 4,
+        "time": "2023-09-15T21:30:00.000Z",
+        "firstTeam": "Серветт",
+        "secondTeam": "Рейнджерс",
+        "coefficientFirstTeam": 2.14,
+        "coefficientDraw": 3.25,
+        "coefficientSecondTeam": 3.55
+    },
+    {
+        "eventTitle": "Кубок Североамериканских лиг",
+        "eventId": 7,
+        "time": "2023-09-26T00:19:00.000Z",
+        "firstTeam": "Филадельфия Юнион",
+        "secondTeam": "Интер Майами",
+        "coefficientFirstTeam": 2.68,
+        "coefficientDraw": 3.75,
+        "coefficientSecondTeam": 2.4
+    },
+    {
+        "eventTitle": "Парагвай. Примера Дивизион",
+        "eventId": 6,
+        "time": "2023-10-03T00:00:00.000Z",
+        "firstTeam": "Хенераль Кабальеро",
+        "secondTeam": "Такуари",
+        "coefficientFirstTeam": 2.16,
+        "coefficientDraw": 3.15,
+        "coefficientSecondTeam": 3.45
+    },
+    {
+        "eventTitle": "Лига конференций УЕФА. Квалификация",
+        "eventId": 7,
+        "time": "2023-10-15T00:21:30.000Z",
+        "firstTeam": "Флора Таллинн",
+        "secondTeam": "Фарул Констанца",
+        "coefficientFirstTeam": 3.15,
+        "coefficientDraw": 2.36,
+        "coefficientSecondTeam": 2.5
+    },
+    {
+        "eventTitle": "Колумбия. Примера Б",
+        "eventId": 7,
+        "time": "2023-11-23T00:25:00.000Z",
+        "firstTeam": "Орсомарсо",
+        "secondTeam": "Льянерос",
+        "coefficientFirstTeam": 2.7,
+        "coefficientDraw": 2.7,
+        "coefficientSecondTeam": 2.85
+    },
+    {
+        "eventTitle": "Жен. Кубок Мира",
+        "eventId": 7,
+        "time": "2023-12-06T00:19:30.000Z",
+        "firstTeam": "Австралия(жен)",
+        "secondTeam": "Англия(жен)",
+        "coefficientFirstTeam": 3.44,
+        "coefficientDraw": 3.08,
+        "coefficientSecondTeam": 2.4
+    }
+]
